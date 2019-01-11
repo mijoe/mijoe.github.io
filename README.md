@@ -1,7 +1,3 @@
-# Michael Jörg
-
-Software Developer, Architect and Requirements Guy
-
 # Skills
 
 ## Technical Skills
