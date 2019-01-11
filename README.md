@@ -3,14 +3,14 @@
 ## Technical Skills
 
 * Languages
- * C# / .NET
- * PHP / Symfony
- * JavaScript / VueJS
+  * C# / .NET
+  * PHP / Symfony
+  * JavaScript / VueJS
 * Tools
- * Visual Studio Code
- * git / git-flow
- * PHPStorm
- * GitLab
+  * Visual Studio Code
+  * git / git-flow
+  * PHPStorm
+  * GitLab
 
 ## Non-technical Skills
 
