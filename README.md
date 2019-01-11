@@ -11,6 +11,7 @@
   * git / git-flow
   * PHPStorm
   * GitLab
+  * Docker
 
 ## Non-technical Skills
 
