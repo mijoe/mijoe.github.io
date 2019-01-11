@@ -18,3 +18,8 @@
 * Team Lead and Management
 * Documentation
 * PCI DSS
+
+## Certifications
+
+* Certified Scrum Master
+* MCP / MCSD
