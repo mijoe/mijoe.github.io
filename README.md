@@ -25,7 +25,7 @@
 * Certified Scrum Master
 * MCP / MCSD
 
-## Achievments
+## Achievements
 
 [100DaysOfCode Challenge](100-days-of-code/)
 : I try to sharpen my development and technology skills on a daily basis
