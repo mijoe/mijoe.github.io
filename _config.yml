@@ -1,5 +1,4 @@
-# theme: jekyll-theme-minimal
-remote_theme: "mmistakes/minimal-mistakes"
+theme: jekyll-theme-minimal
 title: Michael Jörg
 description: Software Developer, Architect and Requirements Guy
 logo: assets/images/mijoe.jpeg
