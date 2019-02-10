@@ -1,5 +1,7 @@
-# Skills
-
+---
+title:  "Skills"
+permalink: /skills/
+---
 ## Technical Skills
 
 * Languages
