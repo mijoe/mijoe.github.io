@@ -3,9 +3,6 @@ title:  "Commit and Prepare"
 categories: [100DaysOfCode, Round1, Day1]
 tags: [GitHub Pages, Jekyll]
 ---
-
-## 1. Commit and Prepare
-
 Start and prepare the challenge
 
 - [Commit to challenge](https://twitter.com/mijoe/status/1080146457808773120) on Twitter
