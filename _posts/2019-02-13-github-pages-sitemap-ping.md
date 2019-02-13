@@ -17,13 +17,13 @@ Just add to web hooks to your GitHub Pages repository.
 Use the following as payload urls for google
 
 ```
-https://www.google.com/webmasters/tools/ping?sitemap=http://michaejoerg.com/sitemap.xml
+https://www.google.com/webmasters/tools/ping?sitemap=https://michaejoerg.com/sitemap.xml
 ```
 
 and bing
 
 ```
-https://www.bing.com/ping?sitemap=http://michaeljoerg.com/sitemap.xml
+https://www.bing.com/ping?sitemap=https://michaeljoerg.com/sitemap.xml
 ```
 
 Be sure to trigger web hook on every page build
