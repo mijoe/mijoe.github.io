@@ -1,6 +1,6 @@
 ---
-title:  "GitHub Pages sitemap ping"
-categories: [100DaysOfCode, Round1, Day9]
+title:  "Day 9 / GitHub Pages sitemap ping"
+categories: [100DaysOfCode, Round1]
 tags: [Jekyll, Sitemap, Google Webmaster Tools, Bing]
 ---
 
@@ -17,7 +17,7 @@ Just add to web hooks to your GitHub Pages repository.
 Use the following as payload urls for google
 
 ```
-https://www.google.com/webmasters/tools/ping?sitemap=https://michaejoerg.com/sitemap.xml
+https://www.google.com/webmasters/tools/ping?sitemap=https://michaeljoerg.com/sitemap.xml
 ```
 
 and bing
