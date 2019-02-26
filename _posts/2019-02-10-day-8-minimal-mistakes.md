@@ -1,6 +1,6 @@
 ---
-title:  "Minimal Mistakes"
-categories: [100DaysOfCode, Round1, Day8]
+title:  "Day 8 / Minimal Mistakes"
+categories: [100DaysOfCode, Round1]
 tags: [Jekyll, Themes, GitHub Pages]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title:  "Update JavaScript Knowledge"
-categories: [100DaysOfCode, Round1, Day7]
+title:  "Day 7 / Update JavaScript Knowledge"
+categories: [100DaysOfCode, Round1]
 tags: [JavaScript, VueJS, GatsbyJS]
 ---
 

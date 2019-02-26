@@ -1,6 +1,6 @@
 ---
-title:  "Commit and Prepare"
-categories: [100DaysOfCode, Round1, Day1]
+title:  "Day 1 / Commit and Prepare"
+categories: [100DaysOfCode, Round1]
 tags: [GitHub Pages, Jekyll]
 ---
 Start and prepare the challenge
