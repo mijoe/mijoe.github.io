@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Michael Jörg is a Software Engineering Team Lead at a German Cyber Security Consultancy.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This personal website provides information about his professional background, projects, and insights into software engineering and cyber security.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Michael is especially interested in Software Architecture, DevSecOps, and AI, and enjoys exploring how these areas intersect to create secure, scalable, and innovative solutions.
